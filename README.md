@@ -34,3 +34,5 @@
 
 
 ## 결과 사진
+![front](https://github.com/subin0318/Business-card/assets/156440512/dc4184d8-da90-4d8d-b6cc-a21f42549eca)
+![back](https://github.com/subin0318/Business-card/assets/156440512/b6a1fc64-a224-4b72-8e90-d19017c24d9f)
