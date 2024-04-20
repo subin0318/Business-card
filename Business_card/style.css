@@ -109,7 +109,7 @@ body { /* 바탕 색깔 */
  
   position: absolute; /* static이 아닌 요소를 기준으로 위치를 결정합니다. */ 
   top: 150px;
-  left: 100px;
+  left: 97px;
   transform: translate(-50%); /*  가운데 정렬을 위해 좌우 방향으로 -50%만큼 이동 */
   color:#f6ce7e;
   font-family: "Anton", sans-serif;
